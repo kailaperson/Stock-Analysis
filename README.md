@@ -10,9 +10,9 @@
 
  - Please the attached images to support my results. 
 
- [/Resources/VBA_Challenge_2017.png](https://github.com/kailaperson/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+[/Resources/VBA_Challenge_2017.png](https://github.com/kailaperson/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
  
- [/Resources/VBA_Challenge_2018.png] 
+ [/Resources/VBA_Challenge_2018.png](https://github.com/kailaperson/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png) 
 
 ## Summary 
 - The advantages of refactoring  code is that it returns the data back faster. Another advantage is that you can use it for larger data sets. The disadvantges of refactoring code is  debugging and make suring the data prodcued the same results. 
